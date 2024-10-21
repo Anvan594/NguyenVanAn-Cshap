@@ -1,0 +1,14 @@
+C:\Users\An\source\repos\Lap5_01\Lap05_02\bin\Debug\net8.0\Lap05_02.exe
+C:\Users\An\source\repos\Lap5_01\Lap05_02\bin\Debug\net8.0\Lap05_02.deps.json
+C:\Users\An\source\repos\Lap5_01\Lap05_02\bin\Debug\net8.0\Lap05_02.runtimeconfig.json
+C:\Users\An\source\repos\Lap5_01\Lap05_02\bin\Debug\net8.0\Lap05_02.dll
+C:\Users\An\source\repos\Lap5_01\Lap05_02\bin\Debug\net8.0\Lap05_02.pdb
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\Lap05_02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\Lap05_02.AssemblyInfoInputs.cache
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\Lap05_02.AssemblyInfo.cs
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\Lap05_02.csproj.CoreCompileInputs.cache
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\Lap05_02.dll
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\refint\Lap05_02.dll
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\Lap05_02.pdb
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\Lap05_02.genruntimeconfig.cache
+C:\Users\An\source\repos\Lap5_01\Lap05_02\obj\Debug\net8.0\ref\Lap05_02.dll
