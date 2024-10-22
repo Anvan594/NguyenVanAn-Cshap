@@ -1,0 +1,197 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C882A865-F377-4D73-A204-B0919122E297}|lab ex6.2\\lab ex6.2.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab ex6.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C882A865-F377-4D73-A204-B0919122E297}|lab ex6.2\\lab ex6.2.csproj|solutionrelative:lab ex6.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21144436-313A-48AD-8770-C9223D64291F}|lab ex6.3\\lab ex6.3.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab ex6.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21144436-313A-48AD-8770-C9223D64291F}|lab ex6.3\\lab ex6.3.csproj|solutionrelative:lab ex6.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21144436-313A-48AD-8770-C9223D64291F}|lab ex6.3\\lab ex6.3.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab ex6.3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21144436-313A-48AD-8770-C9223D64291F}|lab ex6.3\\lab ex6.3.csproj|solutionrelative:lab ex6.3\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E9B554C-A481-4EF0-B262-6BF681D4DAA8}|lesson27\\lesson27.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lesson27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E9B554C-A481-4EF0-B262-6BF681D4DAA8}|lesson27\\lesson27.csproj|solutionrelative:lesson27\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D162FD-6E05-4B03-85F2-F8319BD1E409}|lab ex6.1\\lab ex6.1.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab ex6.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D162FD-6E05-4B03-85F2-F8319BD1E409}|lab ex6.1\\lab ex6.1.csproj|solutionrelative:lab ex6.1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D162FD-6E05-4B03-85F2-F8319BD1E409}|lab ex6.1\\lab ex6.1.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab ex6.1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00D162FD-6E05-4B03-85F2-F8319BD1E409}|lab ex6.1\\lab ex6.1.csproj|solutionrelative:lab ex6.1\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A4E6F0-B681-4B78-AC90-5D37FC9D6CE0}|lab06.3\\lab06.3.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab06.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A4E6F0-B681-4B78-AC90-5D37FC9D6CE0}|lab06.3\\lab06.3.csproj|solutionrelative:lab06.3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2A4E6F0-B681-4B78-AC90-5D37FC9D6CE0}|lab06.3\\lab06.3.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab06.3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2A4E6F0-B681-4B78-AC90-5D37FC9D6CE0}|lab06.3\\lab06.3.csproj|solutionrelative:lab06.3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C36FB214-1E46-4B2C-8BE6-534356D52DD7}|lab 6.2\\lab 6.2.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab 6.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C36FB214-1E46-4B2C-8BE6-534356D52DD7}|lab 6.2\\lab 6.2.csproj|solutionrelative:lab 6.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E15077-DF58-4169-B8A8-FDBA852439AA}|lab 06\\lab 06.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab 06\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E15077-DF58-4169-B8A8-FDBA852439AA}|lab 06\\lab 06.csproj|solutionrelative:lab 06\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C0E15077-DF58-4169-B8A8-FDBA852439AA}|lab 06\\lab 06.csproj|c:\\users\\admin\\documents\\dev2409gh-t2356-csharp\\lab 06\\lab 06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C0E15077-DF58-4169-B8A8-FDBA852439AA}|lab 06\\lab 06.csproj|solutionrelative:lab 06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.3\\Car.cs",
+              "RelativeDocumentMoniker": "lab ex6.3\\Car.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.3\\Car.cs",
+              "RelativeToolTip": "lab ex6.3\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:33:31.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.3\\Program.cs",
+              "RelativeDocumentMoniker": "lab ex6.3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.3\\Program.cs",
+              "RelativeToolTip": "lab ex6.3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:33:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.2\\Program.cs",
+              "RelativeDocumentMoniker": "lab ex6.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.2\\Program.cs",
+              "RelativeToolTip": "lab ex6.2\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:32:37.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.1\\Program.cs",
+              "RelativeDocumentMoniker": "lab ex6.1\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.1\\Program.cs",
+              "RelativeToolTip": "lab ex6.1\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAuwCAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:03:00.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lesson27\\Program.cs",
+              "RelativeDocumentMoniker": "lesson27\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lesson27\\Program.cs",
+              "RelativeToolTip": "lesson27\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:44:45.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.1\\Book.cs",
+              "RelativeDocumentMoniker": "lab ex6.1\\Book.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab ex6.1\\Book.cs",
+              "RelativeToolTip": "lab ex6.1\\Book.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:03:23.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab06.3\\Student.cs",
+              "RelativeDocumentMoniker": "lab06.3\\Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab06.3\\Student.cs",
+              "RelativeToolTip": "lab06.3\\Student.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwBAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:30:05.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab06.3\\Program.cs",
+              "RelativeDocumentMoniker": "lab06.3\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab06.3\\Program.cs",
+              "RelativeToolTip": "lab06.3\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAuwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T01:29:25.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab 6.2\\Program.cs",
+              "RelativeDocumentMoniker": "lab 6.2\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab 6.2\\Program.cs",
+              "RelativeToolTip": "lab 6.2\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:24:49.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab 06\\Product.cs",
+              "RelativeDocumentMoniker": "lab 06\\Product.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab 06\\Product.cs",
+              "RelativeToolTip": "lab 06\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:15:38.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab 06\\Program.cs",
+              "RelativeDocumentMoniker": "lab 06\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Documents\\DEV2409GH-T2356-CSharp\\lab 06\\lab 06\\Program.cs",
+              "RelativeToolTip": "lab 06\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T02:14:47.451Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
