@@ -1,0 +1,14 @@
+C:\Users\An\source\repos\lesson28\Lap07_1\bin\Debug\net8.0\Lap07_1.exe
+C:\Users\An\source\repos\lesson28\Lap07_1\bin\Debug\net8.0\Lap07_1.deps.json
+C:\Users\An\source\repos\lesson28\Lap07_1\bin\Debug\net8.0\Lap07_1.runtimeconfig.json
+C:\Users\An\source\repos\lesson28\Lap07_1\bin\Debug\net8.0\Lap07_1.dll
+C:\Users\An\source\repos\lesson28\Lap07_1\bin\Debug\net8.0\Lap07_1.pdb
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\Lap07_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\Lap07_1.AssemblyInfoInputs.cache
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\Lap07_1.AssemblyInfo.cs
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\Lap07_1.csproj.CoreCompileInputs.cache
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\Lap07_1.dll
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\refint\Lap07_1.dll
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\Lap07_1.pdb
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\Lap07_1.genruntimeconfig.cache
+C:\Users\An\source\repos\lesson28\Lap07_1\obj\Debug\net8.0\ref\Lap07_1.dll
