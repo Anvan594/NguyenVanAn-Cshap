@@ -1,0 +1,17 @@
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\bin\Debug\net8.0\lab 8.2.exe
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\bin\Debug\net8.0\lab 8.2.deps.json
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\bin\Debug\net8.0\lab 8.2.runtimeconfig.json
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\bin\Debug\net8.0\lab 8.2.dll
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\bin\Debug\net8.0\lab 8.2.pdb
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\lab 8.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\lab 8.2.AssemblyInfoInputs.cache
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\lab 8.2.AssemblyInfo.cs
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\lab 8.2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\lab 8.2.dll
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\refint\lab 8.2.dll
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\lab 8.2.pdb
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\lab 8.2.genruntimeconfig.cache
+C:\Users\Admin\Source\Repos\lab08\lab 8.2\obj\Debug\net8.0\ref\lab 8.2.dll
+C:\Users\An\source\repos\lesson29\lab 8.2\obj\Debug\net8.0\lab 8.2.dll
+C:\Users\An\source\repos\lesson29\lab 8.2\obj\Debug\net8.0\refint\lab 8.2.dll
+C:\Users\An\source\repos\lesson29\lab 8.2\obj\Debug\net8.0\lab 8.2.pdb
